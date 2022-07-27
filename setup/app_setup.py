@@ -1,6 +1,3 @@
-# Created May 17, 2022
-# Last Modified: Karina Garmendez - May 19, 2022
-
 from asyncio.windows_events import NULL
 import os, sys
 import subprocess
