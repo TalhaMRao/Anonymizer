@@ -1,6 +1,3 @@
------- Last Modified ----
-Karina Garmendez - June 1, 2022
-
 # Automating understand.ai Anonymizer Documentation
 ### Python: 3.6.8 64-bit
 ### Windows 10: Digital Kitchener/Remote work laptops *Not tested on Unix systems*
