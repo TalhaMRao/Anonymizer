@@ -1,5 +1,3 @@
-# Modified by:
-# Karina Garmendez - May 20, 2022 
 #   -> Re-added Sky Truong's code to save EXIF information to anonymized images
 #   Source: https://pypi.org/project/piexif/
 
