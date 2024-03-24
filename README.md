@@ -1,4 +1,4 @@
-# Automating understand.ai Anonymizer Documentation
+# Automating understand.ai Anonymizer
 ### Python: 3.6.8 64-bit
 ### Windows 10: *Not tested on Unix systems*
 ### Environments:
